@@ -173,8 +173,8 @@ const Home = () => {
               <div className="mt-6">
                 <p className="paragraph-4 mt-3 ">
                   <span className="pb-1 cursor-pointer transition duration-150 border-b-[1px] border-transparent hover:border-green-600">
-                    <a href="mailto:daria.jankovych@seznam.cz">
-                      daria.jankovych@seznam.cz
+                    <a href="mailto:jankovych.daria@seznam.cz">
+                      jankovych.daria@seznam.cz
                     </a>
                   </span>
                 </p>

@@ -62,7 +62,7 @@ const Footer = () => {
               <div className="mb-3 flex justify-start item-center">
                 <Icon icon="uil:phone" className="text-[#16a34a] text-2xl" />
                 <p className="text-gray-300 mb-3 ml-5">
-                  daria.jankovych@seznam.cz
+                  jankovych.daria@seznam.cz
                 </p>
               </div>
               <div className="mb-3 flex justify-start item-center">
