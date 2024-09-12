@@ -18,7 +18,7 @@ const Home = () => {
                   <span className="text-[#16a34a]"> 30 lety zkušeností</span> 
                 </h1>
                 <p className="text-slate-400 mb-8 font-[17px] tracking-wide text-center lg:text-left">
-                  Jsem zkušený realitní makléř s individuálním přístupem a více
+                  Jsem realitní makléř s individuálním přístupem a více
                   než 30 lety praxe, připravený poskytnout komplexní služby v
                   oblasti nemovitostí podle vašich potřeb - kdykoliv 24/7.
                 </p>
