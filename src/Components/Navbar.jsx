@@ -67,7 +67,7 @@ const Navbar = () => {
             className={`container-2xl lg:mx-auto lg:px-48  py-4 flex justify-between items-center `}
           >
             <div className="ml-4">
-              <Link to={"/home"}>
+              <Link to={"/"}>
                 <div className="flex w-full h-full gap-x-3.5">
                   <img
                     src="/images/house.png"
