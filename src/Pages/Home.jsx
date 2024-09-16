@@ -15,12 +15,12 @@ const Home = () => {
                 <h1 className="text-4xl font-extrabold text-black dark:text-white leading-loose mb-6 text-center lg:text-left">
                   Realitní služby
                   <span className="text-[#16a34a]"> na míru </span> s více než
-                  <span className="text-[#16a34a]"> 30 lety zkušeností</span> 
+                  <span className="text-[#16a34a]"> 30 lety zkušeností</span>
                 </h1>
                 <p className="text-slate-400 mb-8 font-[17px] tracking-wide text-center lg:text-left">
-                  Jsem realitní makléř s individuálním přístupem a více
-                  než 30 lety praxe, připravený poskytnout komplexní služby v
-                  oblasti nemovitostí podle vašich potřeb - kdykoliv 24/7.
+                  Jsem realitní makléř s individuálním přístupem a více než 30
+                  lety praxe, připravený poskytnout služby v oblasti
+                  nemovitostí podle vašich potřeb - kdykoliv 24/7.
                 </p>
               </div>
             </div>
@@ -38,49 +38,41 @@ const Home = () => {
             <div className="flex-center-center flex-col">
               <h1 className="sub-header  dark:text-white">KDO JSEM</h1>
               <p className="paragraph">
-                Realitní činnost provádím od roku 1993. Jsem realitní makléř,
-                který provádí zakázky podle potřeb klientů s individuálním
-                přístupem a formou přímé práce pro klienta v režimu tzv. 24/7.
-                Za ty roky se v obchodu s nemovitostmi několikrát hodně změnilo.
-                Každé takové období má svá specifika a pokud je realitní makléř
-                zažil a prakticky prováděl, tak je lze využít pro zájem klienta
-                k momentální i budoucí situaci v případě např. rodinné, nebo
-                majetkové rozvahy. Většina mých klientů je opakovaných a na
-                doporučení, protože tato činnost je prostě práce pro lidi a
-                pouze zažitá zkušenost je ověřením schopností. Proto je
-                nezbytnou částí mé práce i spousta dalších služeb, které jsou
-                nezbytné pro správné realizace obchodů. Pracuji dle podmínek
-                platného realitního zákona včetně zákonného pojištění
-                odpovědnosti realitního zprostředkovatele.
+                Na realitní činnost se specializuji od roku 1993. Jako realitní
+                zprostředkovatel se zaměřuji na individuální potřeby klientů a
+                nabízím osobní přístup, přičemž pracuji formou přímé práce pro
+                klienta a v režimu 24/7.
+                <br />
+                Za více než 30 let praxe jsem zažila mnoho změn na trhu
+                nemovitostí a každé období mě naučilo něco nového. Tyto
+                zkušenosti využívám k poskytování realitních služeb a odborných
+                rad, přičemž se snažím vždy své služby poskytovat s důrazem na
+                osobní potřeby a představy každého mého klienta.
+                <br />
+                Většina mých klientů za mnou přichází na základě doporučení a
+                vrací se díky spokojenosti s výsledkem mé práce.
+                <br />
+                Činnost realitního zprostředkovatele vykonávám dle podmínek dle
+                platného realitního zákona a mám zákonné pojištění odpovědnosti
+                realitního zprostředkovatele.
               </p>
               <h1 className="sub-header dark:text-white mt-14">CO DĚLÁM</h1>
               <p className="paragraph">
-                Součástí mé práce není jen zprostředkování prodeje, nebo nákupu
-                nemovitostí podle určené poptávky. Spousta realitních obchodů má
-                svá specifika, např. podle stavu omezení a jiných faktorů těchto
-                obchodů. V rámci své práce provádím a zajišťuji:
+                Mé služby zahrnují nejen zprostředkování prodeje a nákupu
+                nemovitostí, ale také řešení specifických požadavků klienta.
+                Nabízím mimo jiné:
                 <ul className="text-md text-left font-medium text-amber-500 list-disc mb-7 mt-2">
                   <li className="ms-7">
                     posouzení tržní ceny (pro prodej, dědická řízení apod.)
                   </li>
                   <li className="ms-7">
-                    srovnání tržních nabídek v místě a čase dle skutečně
-                    obchodovaných cen
-                  </li>
-                  <li className="ms-7">
-                    zajištění veškeré stavebně technické dokumentace a listin
-                    katastru nemovitostí
-                  </li>
-                  <li className="ms-7">
-                    zajištění a uzavření smluvní dokumentace mezi makléřem a
-                    klientem
+                    srovnání tržních nabídek v místě a čase
                   </li>
                   <li className="ms-7">
                     zajištění zpracování energetického štítku (PENB)
                   </li>
                   <li className="ms-7">
-                    vyhodnocení rizik a výhod nabídky nemovitostí (územní plán a
-                    jeho změny apod.)
+                    vyhodnocení rizik a výhod nabídky nemovitostí
                   </li>
                   <li className="ms-7">
                     zajištění fotodokumentace a inzerce nemovitostí na míru
@@ -90,41 +82,36 @@ const Home = () => {
                     provedení prohlídek a vyhodnocení bonity zájemců
                   </li>
                   <li className="ms-7">
-                    plný právní servis advokáta včetně smluvního zajištění
-                    úschovy finančních prostředků
+                    zajištění služeb advokáta včetně smluvního zajištění úschovy
+                    finančních prostředků
                   </li>
-                  <li className="ms-7">úvěrové a jiné finanční poradenství</li>
-                  <li className="ms-7">daňové poradenství </li>
                 </ul>
-                K nemovitostem se váží i další potřeby, které pomáhají s
-                realizací za co nejvyšší kupní cenu, zvýšení
-                konkurenceschopnosti na trhu a proto zajišťuji tyto služby
-                vlastní a partnerů:
+                Doplňkové služby, které poskytuji ve spolupráci s profesionály v
+                oboru:
                 <ul className="text-md text-left font-medium text-amber-500 list-disc my-2">
                   <li className="ms-7">
-                    realizace úklidu a vyklizení nemovitostí včetně likvidace
-                    odpadu
+                    úklid a vyklizení nemovitostí včetně likvidace odpadu
                   </li>
                   <li className="ms-7">
-                    provedení stavebních, malířských a jiných nutných prací
+                    stavební, malířské a jiné nutné práce
                   </li>
-                  <li className="ms-7">
-                    provedení elektro a jiných technických oprav
-                  </li>
+                  <li className="ms-7">elektro a technické opravy</li>
                 </ul>
               </p>
               <h1 className="sub-header dark:text-white mt-14">JAK TO DĚLÁM</h1>
               <p className="paragraph">
-                Realitní makléř má nejen povinnosti dané zákonem, ale i určité
-                poslání. Důsledně dbám na to, aby byl klient seznámen se všemi
-                skutečnostmi tak, aby se mohl po rozvaze rozhodovat ve vlastním
-                zájmu. Proto každá potřeba klientů počíná nejlépe osobním
-                rozhovorem a konzultací o věci, před přípravou všeho potřebného.
-                Moji klienti jsou stále informováni o průběhu věcí, mohou se
-                mnou kdykoliv cokoliv konzultovat ve všech otázkách co je
-                napadnou opravdu 24/7, protože každý z nás má jiné pracovní doby
-                a možnosti. Každému dalšímu postupu předchází rozvaha a souhlas
-                klienta.
+                Realitní činnost pro mne není jen soubor zákonných povinností,
+                ale i určité poslání pomáhat mým klientům. Dbám na to, aby byli
+                klienti při prodeji či nákupu nemovitosti seznámení se všemi
+                informacemi tak, aby se mohli rozhodnout ve svém nejlepším
+                zájmu.
+                <br />
+                Každou spolupráci zahajuji osobním rozhovorem, probereme
+                představy klienta a možnosti spolupráce. Moji klienti jsou
+                náležitě informováni o průběhu poskytování služeb a mohou se
+                mnou kdykoliv svůj případ konzultovat. Každý z nás má jiné
+                časové možnosti, a proto se snažím klientům maximálně
+                přizpůsobit.
               </p>
             </div>
           </div>
